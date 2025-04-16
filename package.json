@@ -1,0 +1,23 @@
+{
+  "name": "solana-wallet-creator",
+  "version": "1.0.0",
+  "description": "Bot para criar múltiplas carteiras Solana e transferir fundos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "solana",
+    "wallet",
+    "crypto"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.87.6",
+    "bs58": "^5.0.0",
+    "dotenv": "^16.3.1",
+    "prompt-sync": "^4.2.0"
+  },
+  "type": "module"
+}
