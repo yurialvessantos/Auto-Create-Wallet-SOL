@@ -77,14 +77,14 @@ O arquivo `solana_wallets.json` terá um formato semelhante a este:
   {
     "index": 1,
     "publicKey": "7JnHPPJBBKSTz1YPMbzFrTXcuQxYNy2xi8g9LMYXrPVd",
-    "secretKey": "4KLCp9EXeFGJL641B5UtP8x4C3JxC9vxLJQEYxfSvGHQKKxnwpZ3HoUQRPQ9YG9mLJm5RnRWP4QkUZ8K2SHTiK5V",
+    "secretKey": "4PLCp9EXeFGJL641B5UtP8x4C3JxC9vxAJQEYxfSvGHQKKxnwpZ3HoUQRPQ9YG9mLJm5RnRWP4QkUZ8K2SHTiK5V",
     "amount": 0.1,
     "transferSuccess": true
   },
   {
     "index": 2,
     "publicKey": "BvzKvn5VpVhj9VqLRoJ1VJpCjaTYMpLEQ3DYzYtpgXkA",
-    "secretKey": "3Hzz8QnQmN5KJhoEJL5UKzJnFDmJFXGHJqJajECvG4GnYRCpVkwZ2WJa3zWMx3L3YZP5XcG5XKM4VNnkX5VKbRVK",
+    "secretKey": "3Hzz8RnQmN5KJhoEJL5UKzJnFDmTFXGGJqJajECvG4GnYRCpVkwZ2WJa3zWMx3L3YZP5XcG5XKM4VNnkX5VKbRVK",
     "amount": 0.01,
     "transferSuccess": true
   }
@@ -97,15 +97,15 @@ Após a verificação de saldo, o arquivo pode ser atualizado com os valores rea
 [
   {
     "index": 1,
-    "publicKey": "7JnHPPJBBKSTz1YPMbzFrTXcuQxYNy2xi8g9LMYXrPVd",
-    "secretKey": "4KLCp9EXeFGJL641B5UtP8x4C3JxC9vxLJQEYxfSvGHQKKxnwpZ3HoUQRPQ9YG9mLJm5RnRWP4QkUZ8K2SHTiK5V",
+    "publicKey": "7JnHPPJBBKSRz1YPMbzFrTXcuQxYNy2xi8g9LMYXvPVd",
+    "secretKey": "4KLCp9EXeFGJL641B5UtP8x4C3JxC9vxLJUEYxfSvGHQKKxnwpZ3HoUQRPQ9YG9mLJi5RnRWP4QkUZ8K2SHTiK5V",
     "amount": 0.1,
     "transferSuccess": true
   },
   {
     "index": 2,
-    "publicKey": "BvzKvn5VpVhj9VqLRoJ1VJpCjaTYMpLEQ3DYzYtpgXkA",
-    "secretKey": "3Hzz8QnQmN5KJhoEJL5UKzJnFDmJFXGHJqJajECvG4GnYRCpVkwZ2WJa3zWMx3L3YZP5XcG5XKM4VNnkX5VKbRVK",
+    "publicKey": "BvzKvn5VpVhj9VqLRoJ1VJpCjaTYMpLCQ3DYzYtpgXkA",
+    "secretKey": "3Hzz8QnQmN5KJhoEJL5UKzJnFDmJFXGHJqJajECvG4GnYRCpVkwZ2WJa3zAMx3L3YZP5XcG5XKM4VNnkX5VKbRVK",
     "amount": 0.01,
     "transferSuccess": true
   }
